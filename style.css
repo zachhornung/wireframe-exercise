@@ -53,7 +53,8 @@ footer {
 button {
   width:200px;
   margin-top: 5px;
-  
+  background-color: black;
+  color: wheat;
 }
 section {
   margin: 30px;
@@ -66,4 +67,5 @@ section {
 }
 button:hover {
   color: blue;
+  transition: 350ms;
 }
