@@ -53,6 +53,7 @@ footer {
 button {
   width:200px;
   margin-top: 5px;
+  
 }
 section {
   margin: 30px;
@@ -62,4 +63,7 @@ section {
 }
 #threeRow {
   margin-left: 300px;
+}
+button:hover {
+  color: blue;
 }
